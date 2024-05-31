@@ -24,14 +24,11 @@ Bem-vindo ao meu perfil do GitHub! Meu nome é Denaro e sou um entusiasta da pro
 Aqui estão alguns dos meus projetos recentes:
 
 - [EM BREVE](link para o projeto): Breve descrição do projeto.
-- [EM BREVE](link para o projeto): Breve descrição do projeto.
-- [EM BREVE](link para o projeto): Breve descrição do projeto.
 
 ### Vamos Conversar! 🚀
 
 Se você está interessado em colaborar em projetos Python ou apenas quer bater um papo, não hesite em entrar em contato comigo!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denaroh&layout=compact)](https://github.com/denaroh)
 
 
