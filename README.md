@@ -2,7 +2,7 @@
 
 ## Eu sou um Desenvolvedor Python 🐍💻
 
-Bem-vindo ao meu perfil do GitHub! Meu nome é [Seu Nome] e sou um entusiasta da programação Python. Abaixo você encontrará algumas informações sobre mim e meus projetos.
+Bem-vindo ao meu perfil do GitHub! Meu nome é Denaro e sou um entusiasta da programação Python. Abaixo você encontrará algumas informações sobre mim e meus projetos.
 
 ### Sobre Mim
 
@@ -23,16 +23,17 @@ Bem-vindo ao meu perfil do GitHub! Meu nome é [Seu Nome] e sou um entusiasta da
 
 Aqui estão alguns dos meus projetos recentes:
 
-- [Nome do Projeto](link para o projeto): Breve descrição do projeto.
-- [Nome do Projeto](link para o projeto): Breve descrição do projeto.
-- [Nome do Projeto](link para o projeto): Breve descrição do projeto.
+- [EM BREVE](link para o projeto): Breve descrição do projeto.
+- [EM BREVE](link para o projeto): Breve descrição do projeto.
+- [EM BREVE](link para o projeto): Breve descrição do projeto.
 
 ### Vamos Conversar! 🚀
 
 Se você está interessado em colaborar em projetos Python ou apenas quer bater um papo, não hesite em entrar em contato comigo!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](link para o seu perfil do LinkedIn)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat&logo=twitter)](link para o seu perfil do Twitter)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](link para o seu perfil do GitHub)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denaroh&layout=compact)](https://github.com/denaroh)
+
+
 
 Vamos nos conectar e fazer coisas incríveis juntos! 😊
