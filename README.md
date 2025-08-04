@@ -1,8 +1,8 @@
 # Olá, Mundo! 👋
 
-## Eu sou um Desenvolvedor Python 🐍💻
+## Eu sou um Desenvolvedor 💻
 
-Bem-vindo ao meu perfil do GitHub! Meu nome é Denaro e sou um entusiasta da programação Python. Abaixo você encontrará algumas informações sobre mim e meus projetos.
+Bem-vindo ao meu perfil do GitHub! Meu nome é Jean e sou um entusiasta da programação Python. Abaixo você encontrará algumas informações sobre mim e meus projetos.
 
 ### Sobre Mim
 
@@ -16,7 +16,9 @@ Bem-vindo ao meu perfil do GitHub! Meu nome é Denaro e sou um entusiasta da pro
 - Git
 - GitHub
 - Visual Studio Code
-- Jupyter Notebooks
+- PHP
+- MYSQL
+- JS
 - E mais!
 
 ### Projetos
